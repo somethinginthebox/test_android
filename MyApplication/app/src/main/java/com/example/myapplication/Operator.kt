@@ -20,4 +20,5 @@ fun main(){
     println("num1 % num2는 ${modResult}이야")
     println("계산끝")
 
+    num2 = 10
 
