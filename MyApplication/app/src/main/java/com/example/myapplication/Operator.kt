@@ -1,11 +1,11 @@
 package com.example.myapplication
 
 
-fun main(){
+fun main() {
     var num1 = 50
     var num2 = 2
 
-    var plusResult =  num1 + num2
+    var plusResult = num1 + num2
     println("num1 + num2는 ${plusResult}이야")
     var minusResult = num1 - num2
     println("num1 - num2는 ${minusResult}이야")
@@ -21,4 +21,5 @@ fun main(){
     println("계산끝")
 
     num2 = 10
-
+    println("현재 num1의 값은 ${num1}이고 num2의 값은 ${num2}입니다.")
+}
