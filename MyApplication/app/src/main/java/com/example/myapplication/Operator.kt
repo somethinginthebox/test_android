@@ -18,6 +18,6 @@ fun main(){
     num2 = 5
     var modResult = num1 % num2
     println("num1 % num2는 ${modResult}이야")
-
+    println("계산끝")
 
 
